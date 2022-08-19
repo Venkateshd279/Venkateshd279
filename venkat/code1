@@ -1,4 +1,8 @@
 This is first line
 This is second line code 
+<<<<<<< HEAD
 This is third line code by dell
 This is fourth line by asus
+=======
+This is changes by dell
+>>>>>>> dell
