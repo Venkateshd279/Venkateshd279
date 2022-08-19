@@ -1,5 +1,12 @@
 This is first line
 This is second line code
+<<<<<<< HEAD
 a=10
 b=21
 print a+b
+||||||| 12d2256
+=======
+a=23
+b=2
+print b+a
+>>>>>>> swetha
