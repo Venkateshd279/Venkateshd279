@@ -35,7 +35,7 @@
 <a href="https://fb.com/venkatesh.raja.332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/venkatesh.raja.332/" height="30" width="40" /></a>
 <a href="https://instagram.com/venkatesh_dhanapalraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/venkatesh_dhanapalraj/" height="30" width="40" /></a>
 <a href="https://medium.com/@venkatesh.d279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@venkatesh.d279" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@devopsprojunction" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@devopsprojunction" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@devopsprojunction" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@devopsprojunction" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
