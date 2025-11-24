@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Dhanapalraj</h1>
-<h3 align="center">I am DevOps/CloudOps Engineer in India</h3>
+<h3 align="center">I am DevOps/Platform Engineer in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshd279&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshd279" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/victoryvenkat94" target="blank"><img src="https://img.shields.io/twitter/follow/victoryvenkat94?logo=twitter&style=for-the-badge" alt="victoryvenkat94" /></a> </p>
 
-- 🔭 I’m currently working on [PDI Technologies in Chennai](https://pditechnologies.com/)
+- 🔭 I’m currently working on [Altimetrik in Chennai](https://www.altimetrik.com/)
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **venkatesh.dhanapalraj@gmail.com**
 
-- 📄 Know about my experiences [I have 8+ years of Experience in Networking & DevOps](I have 8+ years of Experience in Networking & DevOps)
+- 📄 Know about my experiences [I have 9.6 years of Experience in Networking & Cloud DevOps]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
