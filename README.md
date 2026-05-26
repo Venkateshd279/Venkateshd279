@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Dhanapalraj</h1>
 <h3 align="center">Cloud & DevOps Engineer | Platform Architect | GenAI Enthusiast</h3>
-<p align="center">9.6+ years of expertise in enterprise cloud infrastructure, DevOps automation, and Kubernetes. Passionate about scaling systems and exploring AI/ML integration in cloud platforms. Content creator sharing DevOps knowledge with 3.1K+ YouTube subscribers.</p>
+<p align="center">10+ years of expertise in enterprise cloud infrastructure, DevOps automation, and Kubernetes. Passionate about scaling systems and exploring AI/ML integration in cloud platforms. Content creator sharing DevOps knowledge with 3.12K+ YouTube subscribers.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshd279&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshd279" /> </p>
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **venkatesh.dhanapalraj@gmail.com** or connect with me on [LinkedIn](https://linkedin.com/in/venkatesh-dhanapalraj/)
 
-- 📄 Know about my experiences [Enterprise Cloud Infrastructure, Kubernetes Orchestration, CI/CD Pipelines, Infrastructure as Code]
+- 📄 Know about my experiences [10+ years in Enterprise Cloud Infrastructure, Kubernetes Orchestration, CI/CD Pipelines, Infrastructure as Code]
 
 ### Core Competencies
 - **Cloud Platforms:** AWS (EC2, RDS, Lambda, ECS, EKS), Azure Kubernetes Service (AKS), Google Cloud Platform (GCP)
@@ -31,7 +31,7 @@
 - **Exploring:** Generative AI integration, LLMs, Prompt Engineering, RAG systems for DevOps automation
 
 ### Content & Tutorials
-📺 **YouTube Channel:** [DevOps Pro Junction](https://www.youtube.com/@devopsprojunction) - 3.1K+ subscribers
+📺 **YouTube Channel:** [DevOps Pro Junction](https://www.youtube.com/@devopsprojunction) - 3.12K+ subscribers
 - In-depth DevOps tutorials and best practices
 - Cloud infrastructure guides (AWS, Azure, GCP)
 - Kubernetes and containerization deep dives
